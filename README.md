@@ -57,3 +57,6 @@ This code was created as a sample project for educational purposes. If you find 
 
 ## Note: 
 This README provides a high-level overview of the code and its functionality. Detailed instructions for running the code and customizing it are included within the code comments.
+
+# DATA STORYTELLING 
+[**MEDIUM**](https://medium.com/@delonisnr/from-client-satisfaction-to-business-growth-the-secrets-behind-stephanie-youngers-real-estate-e8a5548e5d1f)
